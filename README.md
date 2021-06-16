@@ -52,7 +52,7 @@
     
     따라서 희소 단어 제거 과정은 건너 뜀
     
-    토큰에 대해 one-hot encoding 수행 (tensorflow 라이브러리의 Tokenizer().texts_to_sequences 기능 사용)
+    토큰에 대해 encoding 수행 (tensorflow 라이브러리의 Tokenizer().texts_to_sequences 기능 사용)
     
 | encoded_text | label |
 |---|---|
